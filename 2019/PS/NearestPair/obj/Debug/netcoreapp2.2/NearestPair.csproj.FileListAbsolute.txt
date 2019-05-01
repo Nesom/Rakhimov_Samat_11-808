@@ -1,0 +1,11 @@
+C:\Users\rakhi\source\repos\NearestPair\bin\Debug\netcoreapp2.2\NearestPair.deps.json
+C:\Users\rakhi\source\repos\NearestPair\bin\Debug\netcoreapp2.2\NearestPair.runtimeconfig.json
+C:\Users\rakhi\source\repos\NearestPair\bin\Debug\netcoreapp2.2\NearestPair.runtimeconfig.dev.json
+C:\Users\rakhi\source\repos\NearestPair\bin\Debug\netcoreapp2.2\NearestPair.dll
+C:\Users\rakhi\source\repos\NearestPair\bin\Debug\netcoreapp2.2\NearestPair.pdb
+C:\Users\rakhi\source\repos\NearestPair\obj\Debug\netcoreapp2.2\NearestPair.csprojAssemblyReference.cache
+C:\Users\rakhi\source\repos\NearestPair\obj\Debug\netcoreapp2.2\NearestPair.csproj.CoreCompileInputs.cache
+C:\Users\rakhi\source\repos\NearestPair\obj\Debug\netcoreapp2.2\NearestPair.AssemblyInfoInputs.cache
+C:\Users\rakhi\source\repos\NearestPair\obj\Debug\netcoreapp2.2\NearestPair.AssemblyInfo.cs
+C:\Users\rakhi\source\repos\NearestPair\obj\Debug\netcoreapp2.2\NearestPair.dll
+C:\Users\rakhi\source\repos\NearestPair\obj\Debug\netcoreapp2.2\NearestPair.pdb
