@@ -1,0 +1,13 @@
+C:\Users\rakhi\source\repos\ThreadTask\bin\Debug\netcoreapp2.2\ThreadTask.deps.json
+C:\Users\rakhi\source\repos\ThreadTask\bin\Debug\netcoreapp2.2\ThreadTask.runtimeconfig.json
+C:\Users\rakhi\source\repos\ThreadTask\bin\Debug\netcoreapp2.2\ThreadTask.runtimeconfig.dev.json
+C:\Users\rakhi\source\repos\ThreadTask\bin\Debug\netcoreapp2.2\ThreadTask.dll
+C:\Users\rakhi\source\repos\ThreadTask\bin\Debug\netcoreapp2.2\ThreadTask.pdb
+C:\Users\rakhi\source\repos\ThreadTask\bin\Debug\netcoreapp2.2\Newtonsoft.Json.dll
+C:\Users\rakhi\source\repos\ThreadTask\obj\Debug\netcoreapp2.2\ThreadTask.csprojAssemblyReference.cache
+C:\Users\rakhi\source\repos\ThreadTask\obj\Debug\netcoreapp2.2\ThreadTask.csproj.CoreCompileInputs.cache
+C:\Users\rakhi\source\repos\ThreadTask\obj\Debug\netcoreapp2.2\ThreadTask.AssemblyInfoInputs.cache
+C:\Users\rakhi\source\repos\ThreadTask\obj\Debug\netcoreapp2.2\ThreadTask.AssemblyInfo.cs
+C:\Users\rakhi\source\repos\ThreadTask\obj\Debug\netcoreapp2.2\ThreadTask.csproj.CopyComplete
+C:\Users\rakhi\source\repos\ThreadTask\obj\Debug\netcoreapp2.2\ThreadTask.dll
+C:\Users\rakhi\source\repos\ThreadTask\obj\Debug\netcoreapp2.2\ThreadTask.pdb

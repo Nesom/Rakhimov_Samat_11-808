@@ -1,34 +1,35 @@
 ﻿using System;
 using Newtonsoft.Json;
 using System.IO;
+using System.Collections.Generic;
+using System.Threading.Tasks;
+using System.Linq;
 
 namespace ThreadTask
 {
-    class JSONComments
-    {
-        public Comment[] Comments { get; set; }
-    }
 
-    public class Comment
+    public class JsonComment
     {
-        public int Postid { get; set; }
-        public int Id { get; set; }
-        public string Name { get; set; }
-        public string Email { get; set; }
-        public string Body { get; set; }
+        public int postId;
+        public int id;
+        public string name;
+        public string email;
+        public string body;
     }
     class Program
     {
+        static void LettersCount(JsonComment x)
+        {
+            string body = x.body;
+            int number = 0;
+            for (int i =0;i<body.Length; i++)
+                if (char.IsLetter(body[i])) number++;
+            Console.WriteLine("id is "+x.id+", count is "+number);
+        }
         static void Main(string[] args)
         {
-            string path = string.Empty;
-            var t = File.ReadAllLines(path);
-            var trtr = new JSONComments
-            {
-
-            };
-            string serialized = JsonConvert.SerializeObject(trtr);
-            JSONComments comments = JsonConvert.DeserializeObject<JSONComments>(serialized);;
+            var comments = JsonConvert.DeserializeObject<List<JsonComment>>(File.ReadAllText("allComments.txt"));
+            Parallel.ForEach(comments.Where(x => x.id % 2 == 0), x => LettersCount(x));
         }
     }
 }
