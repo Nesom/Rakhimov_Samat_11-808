@@ -11,6 +11,7 @@ namespace TopologicalSort
 {
     class Program
     {
+        // чисто тестик такой небольшой
         //here all fields+Main
         #region
         public static int depth = 0;
